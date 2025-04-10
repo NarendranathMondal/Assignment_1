@@ -1,4 +1,4 @@
-# Assignment_1
+# Task_1
 a=input('Enter the first number: ')
 b=input('Enter the second number: ')
 a=int(a)
